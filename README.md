@@ -17,3 +17,8 @@ The original image is read in the code (in the Visual Studio) and displayed as s
 
 ![](images/original.PNG)
 
+Then, using the mouse click you can choose the right color that you want to highlght.
+In the following example, the orange color was chosen.
+
+![](images/orange.PNG)
+
