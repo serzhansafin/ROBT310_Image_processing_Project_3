@@ -26,6 +26,8 @@ In the following example, the orange color was chosen.
 After that, the yellow color was chosen:
 
 
-
-
 ![](images/yellow.PNG)
+
+Then, the green color was chosen for demonstartion purposes:
+
+![](images/green.PNG)
