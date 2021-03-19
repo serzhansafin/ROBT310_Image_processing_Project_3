@@ -22,3 +22,10 @@ In the following example, the orange color was chosen.
 
 ![](images/orange.PNG)
 
+
+After that, the yellow color was chosen:
+
+
+
+
+![](images/yellow.PNG)
