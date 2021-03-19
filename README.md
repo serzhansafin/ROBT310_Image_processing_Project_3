@@ -33,11 +33,6 @@ Then, the green color was chosen for demonstartion purposes:
 ![](images/green.PNG)
 
 
-Conclusion:
-
-The main aspect was to learn the features and the working process of OpenCV along with the implementation of selective color effect. All the useful information and community (OpenCv, stackoverflow) were helpful to make this homework project possible. 
-
-
 Some fancy GUI tools were added (It is trackbar slider)
 The trackbar slider was implemented. So, OpenCV provides some utilities (highgui module)
 
@@ -50,3 +45,7 @@ Below, you can see the original photo and then, it yellow and after that the gre
 
 ![](images/video_green.PNG)
 
+
+Conclusion:
+
+The main aspect was to learn the features and the working process of OpenCV along with the implementation of selective color effect. All the useful information and community (OpenCv, stackoverflow) were helpful to make this homework project possible. 
