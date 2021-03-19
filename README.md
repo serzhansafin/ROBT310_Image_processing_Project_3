@@ -31,3 +31,6 @@ After that, the yellow color was chosen:
 Then, the green color was chosen for demonstartion purposes:
 
 ![](images/green.PNG)
+
+Some fancy GUI tools were added (It is trackbar slider)
+The trackbar slider was implemented. So, OpenCV provides some utilities (highgui module)
