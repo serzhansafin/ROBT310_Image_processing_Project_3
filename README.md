@@ -32,5 +32,16 @@ Then, the green color was chosen for demonstartion purposes:
 
 ![](images/green.PNG)
 
+
 Some fancy GUI tools were added (It is trackbar slider)
 The trackbar slider was implemented. So, OpenCV provides some utilities (highgui module)
+
+Next, the selective color effect has been tested on the video stream. 
+Below, you can see the original photo and then, it yellow and after that the green colors were chosen one by one:
+
+![](images/original_video.PNG)
+
+![](images/video_yellow.PNG)
+
+![](images/video_green.PNG)
+
