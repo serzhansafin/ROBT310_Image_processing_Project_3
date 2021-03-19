@@ -13,5 +13,7 @@ This selective color effect is usually used in tracking applications (finding th
 
 The aim of the project is to implement selective color effect using OpenCV.
 The original image is read in the code (in the Visual Studio) and displayed as shown:
+
+
 ![](images/original.PNG)
 
