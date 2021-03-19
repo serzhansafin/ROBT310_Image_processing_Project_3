@@ -41,7 +41,7 @@ Below, you can see the original photo and then, it yellow and after that the gre
 
 ![](images/original_video.PNG)
 
-![](images/video_yellow.PNG)
+![](images/yellow_video.PNG)
 
 ![](images/video_green.PNG)
 
